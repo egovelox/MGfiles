@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<font>
+    <!-- Nom et taille de la police --> 
+    <nom>Arial</nom>
+    <taille unite = "pt">36</taille>
+</font>
